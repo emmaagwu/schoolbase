@@ -34,7 +34,7 @@ export default function About() {
             About <span className="text-blue-700">SchoolBase</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            A nurturing and inspiring environment where your child's mind, character, and confidence are built for life.
+            A nurturing and inspiring environment where your child&apos;s mind, character, and confidence are built for life.
           </p>
         </div>
 
@@ -43,7 +43,7 @@ export default function About() {
           {/* Left: Textual Content */}
           <div className="space-y-6">
             <p className="text-gray-700 text-lg leading-relaxed">
-              At SchoolBase, we believe every child has greatness within. Since our founding, we've grown from a humble lesson center to a reputable school known for academic excellence, character development, and holistic education.
+              At SchoolBase, we believe every child has greatness within. Since our founding, we&apos;ve grown from a humble lesson center to a reputable school known for academic excellence, character development, and holistic education.
             </p>
             <p className="text-gray-700 text-lg">
               With experienced teachers, a secure and tech-driven learning environment, and values rooted in integrity and curiosity, we’re not just preparing students for exams—we’re preparing them for life.

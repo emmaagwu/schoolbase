@@ -42,7 +42,7 @@ export default function Programs() {
       <div className="max-w-7xl mx-auto px-6 text-center">
         <h2 className="text-4xl font-bold text-gray-900 mb-4">Our Programs</h2>
         <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-12">
-          At <strong>SchoolBase</strong>, we offer a wide range of academic and extracurricular programs that nurture every child's potential — intellectually, morally, and creatively.
+          At <strong>SchoolBase</strong>, we offer a wide range of academic and extracurricular programs that nurture every child&apos;s potential — intellectually, morally, and creatively.
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
