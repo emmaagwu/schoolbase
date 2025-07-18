@@ -61,7 +61,7 @@ export default function Programs() {
                   />
                 </div>
               </CardHeader>
-              <CardContent className="text-left px-6 py-4 border-2 border-amber-200">
+              <CardContent className="text-left px-6 py-4">
                 <h3 className="text-xl font-semibold text-gray-800 mb-2">
                   {program.title}
                 </h3>
